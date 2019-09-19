@@ -3,7 +3,7 @@ package br.com.caelum.argentum.modelo;
 import java.io.Serializable;
 import java.util.Calendar;
 
-public final class Negociacao implements Serializable{
+public final class Negociacao implements Serializable
 
 	private static final long serialVersionUID = 1L;
 
